@@ -1,41 +1,41 @@
 [
     {
-      "picture": "chef1.jpg",
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
       "name": "Rahim Khan",
       "experience": 12,
       "recipes": 75,
       "likes": 1500
     },
     {
-      "picture": "chef2.jpg",
+      "picture": "https://img.freepik.com/free-photo/front-view-female-confectioner-white-wear-holding-plate-with-food-pink-desk-cook-job-kitchen-cuisine-food_140725-35293.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
       "name": "Farida Ahmed",
       "experience": 8,
       "recipes": 50,
       "likes": 1200
     },
     {
-      "picture": "chef3.jpg",
+      "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
       "name": "Kamal Hasan",
       "experience": 15,
       "recipes": 100,
       "likes": 2500
     },
     {
-      "picture": "chef4.jpg",
+      "picture": "https://img.freepik.com/free-photo/confident-young-female-cook-wearing-chef-uniform-holding-frying-pan-crossing-hands-isolated-white-wall_141793-120213.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
       "name": "Nadia Rahman",
       "experience": 10,
       "recipes": 60,
       "likes": 1800
     },
     {
-      "picture": "chef5.jpg",
+      "picture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
       "name": "Ahmed Khan",
       "experience": 20,
       "recipes": 150,
       "likes": 3500
     },
     {
-      "picture": "chef6.jpg",
+      "picture": "https://img.freepik.com/free-photo/pleased-young-beautiful-girl-chef-uniform-points-with-hand-side-isolated-orange-wall_141793-126613.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
       "name": "Sabina Yasmin",
       "experience": 6,
       "recipes": 40,
