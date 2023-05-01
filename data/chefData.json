@@ -1,0 +1,45 @@
+[
+    {
+      "picture": "chef1.jpg",
+      "name": "Rahim Khan",
+      "experience": 12,
+      "recipes": 75,
+      "likes": 1500
+    },
+    {
+      "picture": "chef2.jpg",
+      "name": "Farida Ahmed",
+      "experience": 8,
+      "recipes": 50,
+      "likes": 1200
+    },
+    {
+      "picture": "chef3.jpg",
+      "name": "Kamal Hasan",
+      "experience": 15,
+      "recipes": 100,
+      "likes": 2500
+    },
+    {
+      "picture": "chef4.jpg",
+      "name": "Nadia Rahman",
+      "experience": 10,
+      "recipes": 60,
+      "likes": 1800
+    },
+    {
+      "picture": "chef5.jpg",
+      "name": "Ahmed Khan",
+      "experience": 20,
+      "recipes": 150,
+      "likes": 3500
+    },
+    {
+      "picture": "chef6.jpg",
+      "name": "Sabina Yasmin",
+      "experience": 6,
+      "recipes": 40,
+      "likes": 900
+    }
+  ]
+  
