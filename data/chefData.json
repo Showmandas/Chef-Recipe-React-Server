@@ -1,176 +1,181 @@
 [{
-    "id": "1",
-    "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
-    "name": "Rahim Khan",
-    "experience": 12,
-    "recipes": 75,
-    "likes": 1500,
-    "bio": "Passionate about preserving traditional flavors. Known for creating aromatic biryanis that are loved by all.Specializes in cooking traditional Bengali fish dishes. Famous for his mouth-watering Shorshe Ilish.",
-    "recipesItem": [{
-        "recipeName": "Chicken Biryani",
-        "ingredients": ["Chicken", "Basmati Rice", "Onion", "Spices", "Yogurt"],
-        "cookingMethod": "1. Marinate chicken with spices and yogurt. 2. Cook rice separately. 3. Sauté onions and spices. 4. Layer rice and chicken. 5. Cook on low heat. 6. Serve hot.",
-        "rating": 4.5
-      },
-      {
-        "recipeName": "Shorshe Ilish",
-        "ingredients": ["Hilsa Fish", "Mustard Paste", "Turmeric", "Green Chili", "Mustard Oil"],
-        "cookingMethod": "1. Marinate fish with turmeric and salt. 2. Fry the fish. 3. Prepare a paste of mustard, chili, and turmeric. 4. Sauté the paste in mustard oil. 5. Add fish and simmer. 6. Serve with steamed rice.",
-        "rating": 4.8
-      },
-      {
-        "recipeName": "Pitha",
-        "ingredients": ["Rice Flour", "Coconut", "Jaggery", "Cardamom", "Vegetable Oil"],
-        "cookingMethod": "1. Prepare a dough with rice flour and water. 2. Make small balls and flatten them. 3. Stuff with a mixture of coconut and jaggery. 4. Fold and steam. 5. Serve as a sweet delicacy.",
-        "rating": 4.2
-      }
+  "id": "1",
+  "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
+  "name": "Rahim Khan",
+  "experience": 12,
+  "recipes": 75,
+  "likes": 1500,
+  "bio": "Passionate about preserving traditional flavors. Known for creating aromatic biryanis that are loved by all.Specializes in cooking traditional Bengali fish dishes. Famous for his mouth-watering Shorshe Ilish.",
+  "recipeItem": [{
+      "recipeName": "Chicken Biryani",
+      "ingredients": "Chicken, Basmati Rice, Onion, Spices, Yogurt",
+      "cookingMethod": "1. Marinate chicken with spices and yogurt. 2. Cook rice separately. 3. Sauté onions and spices. 4. Layer rice and chicken. 5. Cook on low heat. 6. Serve hot.",
+      "rating": 4.5
+    },
+    {
+      "recipeName": "Shorshe Ilish",
+      "ingredients": "Hilsa Fish, Mustard Paste, Turmeric, Green Chili, Mustard Oil",
+      "cookingMethod": "1. Marinate fish with turmeric and salt. 2. Fry the fish. 3. Prepare a paste of mustard, chili, and turmeric. 4. Sauté the paste in mustard oil. 5. Add fish and simmer. 6. Serve with steamed rice.",
+      "rating": 4.8
+    },
+    {
+      "recipeName": "Pitha",
+      "ingredients": "Rice Flour, Coconut, Jaggery, Cardamom, Vegetable Oil",
+      "cookingMethod": "1. Prepare a dough with rice flour and water. 2. Make small balls and flatten them. 3. Stuff with a mixture of coconut and jaggery. 4. Fold and steam. 5. Serve as a sweet delicacy.",
+      "rating": 4.2
+    }
+  ]
+},
+{
+  "id": "2",
+  "picture": "https://img.freepik.com/free-photo/front-view-female-confectioner-white-wear-holding-plate-with-food-pink-desk-cook-job-kitchen-cuisine-food_140725-35293.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
+  "name": "Farida Ahmed",
+  "experience": 8,
+  "recipes": 50,
+  "likes": 1200,
+  "bio": "Expert in making soft and flavorful chapatis. Adds a touch of love to every meal.Known for her expertise in creating flavorsome and succulent beef dishes. Makes every bite a delightful experience.",
+  "recipeItem": [{
+      "recipeName": "Chapati",
+      "ingredients": "Whole Wheat Flour, Water, Salt,Oil,Ghee",
+      "cookingMethod": "1. Mix flour, salt, and water to make a dough. 2. Divide into small balls. 3. Roll out each ball. 4. Cook on a hot griddle. 5. Serve with curry or vegetables.",
+      "rating": 4.0
+    },
+    {
+      "recipeName": "Beef Bhuna",
+      "ingredients": "Beef, Onion, Tomato, Ginger-Garlic Paste, Spices",
+      "cookingMethod": "1. Marinate beef with spices, ginger-garlic paste, and salt. 2. Sauté onions until golden. 3. Add tomatoes and cook until soft. 4. Add marinated beef and cook until tender. 5. Garnish and serve hot.",
+      "rating": 4.6
+    },
+    {
+      "recipeName": "Mishti Doi (Sweet Yogurt)",
+      "ingredients": "Yogurt, Sugar, Cardamom, Rose Water, Pistachios",
+      "cookingMethod": "1. Mix yogurt, sugar, cardamom, and rose water. 2. Whisk until smooth. 3. Pour into individual bowls. 4. Garnish with pistachios. 5. Refrigerate until set. 6. Serve chilled.",
+      "rating": 4.9,
+      "bio": "Specializes in making traditional Bengali sweet yogurt. Known for her creamy and indulgent Mishti Doi."
+    }
+  ]
+},
+{
+  "id": "3",
+  "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
+  "name": "Kamal Hasan",
+  "experience": 15,
+  "recipes": 100,
+  "likes": 2500,
+  "bio": "Known for his expertise in preparing flavorful and creamy prawn dishes. Creates a symphony of flavors with each bite.Specializes in cooking tender and aromatic mutton dishes. Brings a royal touch to the traditional Bengali korma.",
+  "recipeItem": [
+    {
+    "recipeName": "Prawn Malai Curry",
+    "ingredients": "Prawns, Coconut Milk, Onion,Ginger, Garlic",
+    "cookingMethod": "1. Sauté onions, ginger, and garlic. 2. Add prawns and cook until pink. 3. Add coconut milk and simmer. 4. Garnish and serve with rice or roti.",
+    "rating": 4.7
+    
+    },
+    {
+    "recipeName": "Mutton Korma",
+    "ingredients": "Mutton, Yogurt, Onion, Spices, Cashews",
+    "cookingMethod": "1. Marinate mutton with yogurt and spices. 2. Sauté onions until golden. 3. Add marinated mutton and cook until tender. 4. Add cashew paste and simmer. 5. Serve hot with rice or naan.",
+    "rating": 4.4
+    },
+    {
+    "recipeName": "Chingri Macher Malaikari",
+    "ingredients": "Prawns, Coconut Milk, Onion, Ginger-Garlic Paste, Spices",
+    "cookingMethod": "1. Sauté onions, ginger-garlic paste, and spices. 2. Add prawns and cook until pink. 3. Add coconut milk and simmer. 4. Garnish and serve with rice or naan.",
+    "rating": 4.8
+    }
     ]
-  },
-  {
-    "id": "2",
-    "picture": "https://img.freepik.com/free-photo/front-view-female-confectioner-white-wear-holding-plate-with-food-pink-desk-cook-job-kitchen-cuisine-food_140725-35293.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
-    "name": "Farida Ahmed",
-    "experience": 8,
-    "recipes": 50,
-    "likes": 1200,
-    "bio": "Expert in making soft and flavorful chapatis. Adds a touch of love to every meal.Known for her expertise in creating flavorsome and succulent beef dishes. Makes every bite a delightful experience.",
-    "recipeItem": [{
-        "recipeName": "Chapati",
-        "ingredients": ["Whole Wheat Flour", "Water", "Salt"],
-        "cookingMethod": "1. Mix flour, salt, and water to make a dough. 2. Divide into small balls. 3. Roll out each ball. 4. Cook on a hot griddle. 5. Serve with curry or vegetables.",
-        "rating": 4.0
+},
+{
+  "id": "4",
+  "picture": "https://img.freepik.com/free-photo/confident-young-female-cook-wearing-chef-uniform-holding-frying-pan-crossing-hands-isolated-white-wall_141793-120213.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
+  "name": "Nadia Rahman",
+  "experience": 10,
+  "recipes": 60,
+  "likes": 1800,
+  "bio": "Expert in creating melt-in-your-mouth Shami Kebabs. Brings the perfect blend of spices to every bite.Known for her expertise in creating flavorsome and nutritious Bengali vegetarian dishes. Delights taste buds with her Lau Ghonto.",
+  "recipeItem": [
+    {
+    "recipeName": "Shami Kebab",
+    "ingredients": "Mutton, Chana Dal, Onion, Spices, Egg",
+    "cookingMethod": "1. Cook mutton and dal until tender. 2. Grind with onions and spices. 3. Shape into kebabs. 4. Dip in beaten egg. 5. Fry until golden. 6. Serve hot with mint chutney.",
+    "rating": 4.3
+   
+    },
+    {
+      "recipeName": "Lau Ghonto",
+      "ingredients": "Bottle Gourd, Shrimp, Coconut, Onion, Turmeric, Spices",
+      "cookingMethod": "1. Sauté onions until golden. 2. Add shrimp and cook until pink. 3. Add grated bottle gourd and spices. 4. Cook until tender. 5. Serve hot with steamed rice.",
+      "rating": 4.6
       },
       {
-        "recipeName": "Beef Bhuna",
-        "ingredients": ["Beef", "Onion", "Tomato", "Ginger-Garlic Paste", "Spices"],
-        "cookingMethod": "1. Marinate beef with spices, ginger-garlic paste, and salt. 2. Sauté onions until golden. 3. Add tomatoes and cook until soft. 4. Add marinated beef and cook until tender. 5. Garnish and serve hot.",
-        "rating": 4.6
-      },
-      {
-        "recipeName": "Mishti Doi (Sweet Yogurt)",
-        "ingredients": ["Yogurt", "Sugar", "Cardamom", "Rose Water", "Pistachios"],
-        "cookingMethod": "1. Mix yogurt, sugar, cardamom, and rose water. 2. Whisk until smooth. 3. Pour into individual bowls. 4. Garnish with pistachios. 5. Refrigerate until set. 6. Serve chilled.",
-        "rating": 4.9,
-        "bio": "Specializes in making traditional Bengali sweet yogurt. Known for her creamy and indulgent Mishti Doi."
+      "recipeName": "Misti Pulao",
+      "ingredients": "Basmati Rice, Ghee, Sugar, Cashews, Raisins",
+      "cookingMethod": "1. Wash and soak rice. 2. Sauté cashews and raisins in ghee. 3. Add rice and cook. 4. Add sugar and simmer. 5. Serve as a fragrant and sweet rice dish.",
+      "rating": 4.7
       }
-    ]
-  },
-  {
-    "id": "3",
-    "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
-    "name": "Kamal Hasan",
-    "experience": 15,
-    "recipes": 100,
-    "likes": 2500,
-    "bio": "Known for his expertise in preparing flavorful and creamy prawn dishes. Creates a symphony of flavors with each bite.Specializes in cooking tender and aromatic mutton dishes. Brings a royal touch to the traditional Bengali korma.",
-    "recipeItem": [{
-        "recipeName": "Prawn Malai Curry",
-        "ingredients": ["Prawns", "Coconut Milk", "Onion", "Ginger", "Garlic"],
-        "cookingMethod": "1. Sauté onions, ginger, and garlic. 2. Add prawns and cook until pink. 3. Add coconut milk and simmer. 4. Garnish and serve with rice or roti.",
-        "rating": 4.7
-
-      },
-      {
-        "recipeName": "Mutton Korma",
-        "ingredients": ["Mutton", "Yogurt", "Onion", "Spices", "Cashews"],
-        "cookingMethod": "1. Marinate mutton with yogurt and spices. 2. Sauté onions until golden. 3. Add marinated mutton and cook until tender. 4. Add cashew paste and simmer. 5. Serve hot with rice or naan.",
-        "rating": 4.4
-      },
-      {
-        "recipeName": "Chingri Macher Malaikari",
-        "ingredients": ["Prawns", "Coconut Milk", "Onion", "Ginger-Garlic Paste", "Spices"],
-        "cookingMethod": "1. Sauté onions, ginger-garlic paste, and spices. 2. Add prawns and cook until pink. 3. Add coconut milk and simmer. 4. Garnish and serve with rice or naan.",
-        "rating": 4.8
-      }
-    ]
-  },
-  {
-    "id": "4",
-    "picture": "https://img.freepik.com/free-photo/confident-young-female-cook-wearing-chef-uniform-holding-frying-pan-crossing-hands-isolated-white-wall_141793-120213.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
-    "name": "Nadia Rahman",
-    "experience": 10,
-    "recipes": 60,
-    "likes": 1800,
-    "bio": "Expert in creating melt-in-your-mouth Shami Kebabs. Brings the perfect blend of spices to every bite.Known for her expertise in creating flavorsome and nutritious Bengali vegetarian dishes. Delights taste buds with her Lau Ghonto.",
-    "recipeItem": [{
-        "recipeName": "Shami Kebab",
-        "ingredients": ["Mutton", "Chana Dal", "Onion", "Spices", "Egg"],
-        "cookingMethod": "1. Cook mutton and dal until tender. 2. Grind with onions and spices. 3. Shape into kebabs. 4. Dip in beaten egg. 5. Fry until golden. 6. Serve hot with mint chutney.",
-        "rating": 4.3
-
-      },
-      {
-        "recipeName": "Lau Ghonto",
-        "ingredients": ["Bottle Gourd", "Shrimp", "Coconut", "Onion", "Turmeric", "Spices"],
-        "cookingMethod": "1. Sauté onions until golden. 2. Add shrimp and cook until pink. 3. Add grated bottle gourd and spices. 4. Cook until tender. 5. Serve hot with steamed rice.",
-        "rating": 4.6
-      },
-      {
-        "recipeName": "Misti Pulao",
-        "ingredients": ["Basmati Rice", "Ghee", "Sugar", "Cashews", "Raisins"],
-        "cookingMethod": "1. Wash and soak rice. 2. Sauté cashews and raisins in ghee. 3. Add rice and cook. 4. Add sugar and simmer. 5. Serve as a fragrant and sweet rice dish.",
-        "rating": 4.7
-      }
-    ]
-  },
-  {
-    "id": "5",
-    "picture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
-    "name": "Ahmed Khan",
-    "experience": 20,
-    "recipes": 150,
-    "likes": 3500,
-    "bio": "Known for her expertise in making tangy and flavorful chutneys. Brings the taste of fresh mangoes to your palate.Specializes in cooking flavorful and aromatic chicken dishes. Adds a touch of royalty to the traditional Morog Polao.Known for his expertise in making perfectly crispy Begun Bhaja. Elevates the humble eggplant to a whole new level.",
-    "recipeItem": [{
-        "recipeName": "Mango Chutney",
-        "ingredients": ["Mangoes", "Sugar", "Vinegar", "Spices", "Ginger"],
-        "cookingMethod": "1. Peel and chop mangoes. 2. Cook with sugar and vinegar. 3. Add spices and grated ginger. 4. Simmer until thickened. 5. Serve as a tangy and spicy accompaniment.",
-        "rating": 4.5
-
+  ]
+},
+{
+  "id": "5",
+  "picture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
+  "name": "Ahmed Khan",
+  "experience": 20,
+  "recipes": 150,
+  "likes": 3500,
+  "bio": "Known for her expertise in making tangy and flavorful chutneys. Brings the taste of fresh mangoes to your palate.Specializes in cooking flavorful and aromatic chicken dishes. Adds a touch of royalty to the traditional Morog Polao.Known for his expertise in making perfectly crispy Begun Bhaja. Elevates the humble eggplant to a whole new level.",
+  "recipeItem":[
+    {
+      "recipeName": "Mango Chutney",
+      "ingredients": "Mangoes, Sugar, Vinegar, Spices, Ginger",
+      "cookingMethod": "1. Peel and chop mangoes. 2. Cook with sugar and vinegar. 3. Add spices and grated ginger. 4. Simmer until thickened. 5. Serve as a tangy and spicy accompaniment.",
+      "rating": 4.5
+  
       },
       {
         "recipeName": "Morog Polao",
-        "ingredients": ["Chicken", "Basmati Rice", "Onion", "Spices", "Ghee"],
+        "ingredients": "Chicken,Basmati Rice, Onion, Spices, Ghee",
         "cookingMethod": "1. Marinate chicken with spices and yogurt. 2. Cook rice separately. 3. Sauté onions until golden. 4. Layer rice and chicken. 5. Cook on low heat. 6. Serve hot with raita.",
         "rating": 4.9
-      },
-      {
+        },
+        {
         "recipeName": "Begun Bhaja",
-        "ingredients": ["Eggplant", "Turmeric", "Chili Powder", "Salt", "Vegetable Oil"],
+        "ingredients": "Eggplant, Turmeric, Chili Powder, Salt, Vegetable Oil",
         "cookingMethod": "1. Cut eggplant into slices. 2. Sprinkle with turmeric, chili powder, and salt. 3. Fry until golden. 4. Serve hot as a crispy and delicious side dish.",
         "rating": 4.5
-      }
-    ]
-  },
-  {
-    "id": "6",
-    "picture": "https://img.freepik.com/free-photo/pleased-young-beautiful-girl-chef-uniform-points-with-hand-side-isolated-orange-wall_141793-126613.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
-    "name": "Sabina Yasmin",
-    "experience": 6,
-    "recipes": 40,
-    "likes": 900,
-    "bio": "Master in creating heavenly Bengali desserts. Delights taste buds with his velvety and sweet Rasmalai.Known for his expertise in making perfectly crispy Begun Bhaja. Elevates the humble eggplant to a whole new level.",
-    "recipeItem": [{
-        "recipeName": "Rasmalai",
-        "ingredients": ["Milk", "Sugar", "Cardamom", "Saffron", "Pistachios"],
-        "cookingMethod": "1. Boil milk and reduce. 2. Add sugar, cardamom, and saffron. 3. Make small cheese balls and cook in milk. 4. Garnish with pistachios. 5. Serve chilled.",
-        "rating": 4.8
+        }
+  ]
+},
+{
+  "id": "6",
+  "picture": "https://img.freepik.com/free-photo/pleased-young-beautiful-girl-chef-uniform-points-with-hand-side-isolated-orange-wall_141793-126613.jpg?size=626&ext=jpg&ga=GA1.2.200722410.1673070094&semt=robertav1_2_sidr",
+  "name": "Sabina Yasmin",
+  "experience": 6,
+  "recipes": 40,
+  "likes": 900,
+  "bio":"Master in creating heavenly Bengali desserts. Delights taste buds with his velvety and sweet Rasmalai.Known for his expertise in making perfectly crispy Begun Bhaja. Elevates the humble eggplant to a whole new level.",
+  "recipeItem":[
+    {
+      "recipeName": "Rasmalai",
+      "ingredients": "Milk, Sugar, Cardamom, Saffron, Pistachios",
+      "cookingMethod": "1. Boil milk and reduce. 2. Add sugar, cardamom, and saffron. 3. Make small cheese balls and cook in milk. 4. Garnish with pistachios. 5. Serve chilled.",
+      "rating": 4.8
       },
       {
         "recipeName": "Morog Polao",
-        "ingredients": ["Chicken", "Basmati Rice", "Onion", "Spices", "Ghee"],
+        "ingredients": "Chicken,Basmati Rice, Onion, Spices, Ghee",
         "cookingMethod": "1. Marinate chicken with spices and yogurt. 2. Cook rice separately. 3. Sauté onions until golden. 4. Layer rice and chicken. 5. Cook on low heat. 6. Serve hot with raita.",
         "rating": 4.9
-      },
-      {
+        },
+        {
         "recipeName": "Begun Bhaja",
-        "ingredients": ["Eggplant", "Turmeric", "Chili Powder", "Salt", "Vegetable Oil"],
+        "ingredients": "Eggplant,Turmeric,Chili Powder,Salt,Vegetable Oil",
         "cookingMethod": "1. Cut eggplant into slices. 2. Sprinkle with turmeric, chili powder, and salt. 3. Fry until golden. 4. Serve hot as a crispy and delicious side dish.",
         "rating": 4.5
+        }
+      ]
       }
-    ]
-  }
+      
+             
+      
+  ]
 
-
-
-]
